@@ -36,6 +36,11 @@ Password: `pass`
 ![image](https://user-images.githubusercontent.com/128868275/227669581-3cb0deb8-8601-427c-a64e-7c96e62e4333.png)
 
 
+3. In order to assign a treatment (and use the DELETE and PATCH treatment) you need to assign a pacient to a doctor first.
+
+
+![image](https://user-images.githubusercontent.com/128868275/227672903-55bca8e7-4911-4839-bbf1-c213b4617c95.png)
+
 
 Additional info
 
@@ -47,5 +52,7 @@ To create new migrations:
 
 
 To see the database you can use the management tool for PostgreSQL:
+
 download link: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
 setup: https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/
