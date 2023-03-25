@@ -39,7 +39,7 @@ Password: `pass`
 3. In order to assign a treatment (and use the DELETE and PATCH treatment) you need to assign a pacient to a doctor first.
 
 
-![image](https://user-images.githubusercontent.com/128868275/227672903-55bca8e7-4911-4839-bbf1-c213b4617c95.png)
+![image](https://user-images.githubusercontent.com/128868275/227674858-4472a137-ef14-46ae-98dd-6038f7f95af6.png)
 
 
 Additional info
