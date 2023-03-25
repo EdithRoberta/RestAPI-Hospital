@@ -20,6 +20,7 @@ Steps to setup the project:
     ```
 5. Run the server: `poetry run uvicorn api.endpoints:app --reload`
 6. Access the server: http://localhost:8000/docs
+7. Access to OpenAPI: http://localhost:8000/openapi.json
 
 
 Endpoints documentation
